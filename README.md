@@ -1,45 +1,35 @@
-<h2 align="left">Hi 👋! I'm Marcel Fernández Serrano — a Data Science Enthusiast from Sabadell 🇪🇸</h2>
+# Marcel Fernández Serrano
 
-###
+**AI & Data Science Consultant** · Mathematical Engineer
+Bridging complex data and practical business impact.
 
-<p>I'm passionate about uncovering insights from data, building intelligent systems, and crafting elegant solutions with code. Currently diving deep into cybersecurity, AI, and applied machine learning.</p>
+Based in Sabadell, Barcelona — working with clients across Europe on machine learning, data infrastructure, and applied AI.
 
-- 📍 Based in Sabadell, Barcelona
-- 🎓 Mathematical Engineering in Data Science student
-- 🐍 Python & SQL expert
-- 💡 Passionate about AI, cybersecurity, and complex data systems
-- 🌱 Always learning and building
+[**Portfolio →** marcelfedz.vercel.app](https://marcelfedz.vercel.app/)
 
-###
+---
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.79397c9959948c605bb80482542ef08f?rik=ZtHgntcH3KNXKQ&riu=http%3a%2f%2fwww.arabnews.com%2fsites%2fdefault%2ffiles%2f2018%2f11%2f11%2f1365101-921132596.gif&ehk=zbYnAvizEuhZkHcUXmzstiMt8cYk6%2f8SzCmNTHucuEo%3d&risl=&pid=ImgRaw&r=0"  />
+### What I do
 
-###
+- Design and ship machine learning systems end-to-end — from data pipelines to production inference.
+- Build data products that turn raw signals into measurable outcomes.
+- Advise teams on AI strategy, model selection, and evaluation.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
-  <img width="12" />
-</div>
+### Tech stack
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcel-fern%C3%A1ndez-serrano//" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="marcelfernandez12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+### Contact
 
-###
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marcelfedz.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-fern%C3%A1ndez-serrano/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelfernandez12@gmail.com)
